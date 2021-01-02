@@ -32,10 +32,7 @@
 
     Dark mode toggle
 
-    text
-    css for dark mode
-    toggle
-    toggle event
+    https://codepen.io/Wanderlust77/pen/vYXRLqp
 
     Carousel
 

@@ -45,7 +45,8 @@
 
     Zoom effect
 
-    image
-    track mouse movement
+    https://codepen.io/Wanderlust77/pen/WNGzxRR
+
+    track mouse movement on image
     set transform origin on hover
 

@@ -6,39 +6,28 @@
 
     Toast Notification
 
-    toast container floating
-    toast design
-    button
+    https://codepen.io/Wanderlust77/full/XWjEXPJ
     click show random toast message
 
     Auto Write Text
 
-    text
-    index
+    https://codepen.io/Wanderlust77/full/qBaobYN
     show text based on index
-    increment index
+    
 
     Popup / Modal
 
-    button
+    https://codepen.io/Wanderlust77/full/KKgoVRJ
     click on button to activate popup
-    popup container
-    popup with text
     close btn popup with click event
 
     Purple Heart Rain
 
-    heart css
-    falling animation
-    create heart
-    add class
-    add it to body
-    interval
+    https://codepen.io/Wanderlust77/full/NWRYxzO
 
     Background Changer
 
-    button w/ click
-    generate color
+    https://codepen.io/Wanderlust77/pen/KKgoVYL
     change bg color on click
 
     Dark mode toggle

@@ -12,3 +12,23 @@ body {
     margin: 0;
     min-height: 100vh;
 }
+
+button {
+    background-color: cornflowerblue;
+    color: white;
+    padding: 1rem;
+    font-family: inherit;
+    font-size: 1.5rem;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
+    border-radius: 5px;
+    border: none;
+    transition: transform 0.1s linear;
+}
+
+button:focus {
+    outline: none;
+}
+
+button:active {
+    box-shadow: translate(2px 2px);
+}

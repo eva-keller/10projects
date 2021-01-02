@@ -40,10 +40,7 @@
 
     Sound Board
 
-    sounds (HAVE THESE READY SIR)
-    array with names
-    loop over array
-    create buttons w/ text
+    https://codepen.io/Wanderlust77/pen/eYdMzzy
     play sound on click
 
     Zoom effect
